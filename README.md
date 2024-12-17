@@ -1,6 +1,6 @@
 # My DocBook India Project
 
-![Project Logo](https://sambitsahoo.com/vite-article.svg/150) <!-- Replace with your project's logo or image URL -->
+![Project Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH6D2mSGi7bVMMKtBcyOwQ9Qs04bpfGc3hAg&usqp=CAU) <!-- Replace with your project's logo or image URL -->
 
 Welcome to my Vite + React project! This project is built using Vite, React, and several other libraries to create a fast and interactive web application.
 
