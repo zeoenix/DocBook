@@ -1,6 +1,6 @@
 # My DocBook India Project
 
-![Project Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH6D2mSGi7bVMMKtBcyOwQ9Qs04bpfGc3hAg&usqp=CAU) <!-- Replace with your project's logo or image URL -->
+![Project Logo](https://img.freepik.com/free-vector/stethoscope-medical-tool-isolated-icon_24877-83424.jpg?t=st=1734467059~exp=1734470659~hmac=7765e888bf35c100806d2ef6d4088a8d9387e8b9beaa833ecf5188abcb41edf2&w=1060) <!-- Replace with your project's logo or image URL -->
 
 Welcome to my Vite + React project! This project is built using Vite, React, and several other libraries to create a fast and interactive web application.
 
